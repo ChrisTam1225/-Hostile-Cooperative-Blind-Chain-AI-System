@@ -7,8 +7,6 @@ A Closed-Loop Architecture for Future-Proof Intelligence Governance
 
 Author: CHRIS TAM
 Original Idea Date: July 4, 2025
-Uploaded via GitHub: https://github.com/[your-username]/[your-repository-name]**
-
 
 ---
 
